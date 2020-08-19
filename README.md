@@ -1,14 +1,14 @@
 # IOT
 
-oT systems are complex systems . . .
+##IoT systems are complex systems . . .
 . . . so handling IoT systems is a matter of handling complex
 systems
 
-IoT is a jigsaw of technologies that have to work together through
+##IoT is a jigsaw of technologies that have to work together through
 well deﬁned interfaces.
 
 
-Menu
+##Course includes
 4h lecture, 6h lab Generalities and requirements - Data protocols
 (MQTT, CoAP) and discovery - Some javascript overview
 
