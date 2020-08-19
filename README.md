@@ -16,12 +16,12 @@ collection and visualization (NodeRed, DataBase)
 3. 6h lab Mini-project
 
 ### What Learnt
-
+Understanding the concept and differences among 
 REST1 protocol2
 • Request/Response: Get (List), Put (Modify), Post (Create), Delete.
 
-MQTT: Middleware
+How to work with MQTT (Middleware)
 
-CoAP: Light "Http"
+How to work with CoAP (Light "Http")
 
 Websockets (Application Messaging Protocol, WAMP)
