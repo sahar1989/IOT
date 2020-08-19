@@ -1,10 +1,8 @@
 # IOT
 
 ## IoT systems are complex systems . . .
-. . . so handling IoT systems is a matter of handling complex
-systems
-
-## IoT is a jigsaw of technologies that have to work together through
+so handling IoT systems is a matter of handling complex
+systems. IoT is a technologies that have to work together through
 well deﬁned interfaces.
 
 
