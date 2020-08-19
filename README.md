@@ -1,21 +1,23 @@
 # IOT
 
-##IoT systems are complex systems . . .
+## IoT systems are complex systems . . .
 . . . so handling IoT systems is a matter of handling complex
 systems
 
-##IoT is a jigsaw of technologies that have to work together through
+## IoT is a jigsaw of technologies that have to work together through
 well deﬁned interfaces.
 
 
-##Course includes
-4h lecture, 6h lab Generalities and requirements - Data protocols
+## Course includes
+1. 4h lecture, 6h lab Generalities and requirements - Data protocols
 (MQTT, CoAP) and discovery - Some javascript overview
 
-2h lecture, 4h lab IoT GW software architecture (RPi), Data
+2. 2h lecture, 4h lab IoT GW software architecture (RPi), Data
 collection and visualization (NodeRed, DataBase)
 
-6h lab Mini-project
+3. 6h lab Mini-project
+
+### What Learnt
 
 REST1 protocol2
 • Request/Response: Get (List), Put (Modify), Post (Create), Delete.
